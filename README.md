@@ -1,6 +1,6 @@
 # 🎬 Interactive Movie Analytics Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://film-explorer-datpq.streamlit.app/])
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://film-explorer-datpq.streamlit.app/)
 
 
 
@@ -38,4 +38,4 @@ Nếu bạn muốn chạy dự án này trên máy tính của mình (Localhost)
 
 1. Clone kho lưu trữ này về máy:
    ```bash
-   git clone [https://github.com/datpq-alpha/film-explorer.git](https://github.com/datpq-alpha/film-explorer.git)
+   git clone https://github.com/datpq-alpha/film-explorer.git
